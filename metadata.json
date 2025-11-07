@@ -1,0 +1,7 @@
+{
+  "name": "KSG-Business Card Scanner-v2",
+  "description": "An application to scan business cards, extract contact information, categorize by industry, add notes, and share the details.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
